@@ -18,6 +18,5 @@ public class NuevoEjemplo {
         int contador = 0;
         contador ++;
         System.out.println("Hola Mundo");
-        System.out.println("Cambio de Naretza");
     }
 }
