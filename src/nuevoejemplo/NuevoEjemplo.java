@@ -15,6 +15,8 @@ public class NuevoEjemplo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int contador = 0;
+        contador ++;
         System.out.println("Hola Mundo");
     }
 }
