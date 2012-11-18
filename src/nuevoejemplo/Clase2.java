@@ -8,13 +8,10 @@ package nuevoejemplo;
  *
  * @author Clemente
  */
-public class NuevoEjemplo {
+class NuevoEjemplo {
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hola Mundo V2.0");
-    }
+    
 }
